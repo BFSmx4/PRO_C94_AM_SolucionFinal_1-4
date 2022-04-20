@@ -46,7 +46,7 @@ export default class IssLocationScreen extends Component {
                         justifyContent: "center",
                         alignItems: "center"
                     }}>
-                    <Text>Loading</Text>
+                    <Text>Cargando</Text>
                 </View>
             )
         } else {
